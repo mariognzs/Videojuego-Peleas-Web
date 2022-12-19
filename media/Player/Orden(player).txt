@@ -1,0 +1,15 @@
+Usando lenght:
+
+Attack* -> 1 - 8 
+
+Charge -> 9 - 12
+
+Death* -> 13 - 17
+
+Hit* -> 18 - 19
+
+Idle* -> 20 - 24
+
+Run* -> 25 - 32
+
+Transition to charge -> 33 - 34
