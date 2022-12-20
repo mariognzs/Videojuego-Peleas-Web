@@ -1,0 +1,7 @@
+156 x 64
+attacks:0-13
+death:14-19
+hit:28-29
+idle:30-32
+run:42-48
+wake:56-59
