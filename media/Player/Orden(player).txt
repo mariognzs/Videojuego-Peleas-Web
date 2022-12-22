@@ -1,15 +1,15 @@
 Usando lenght:
 
-Attack* -> 1 - 8 
+Attack* -> 0- 7
 
-Charge -> 9 - 12
+Charge -> 8 - 11
 
-Death* -> 13 - 17
+Death* -> 12 - 16
 
-Hit* -> 18 - 19
+Hit* -> 17 - 18
 
-Idle* -> 20 - 24
+Idle* -> 19 - 23
 
-Run* -> 25 - 32
+Run* -> 24 - 31
 
-Transition to charge -> 33 - 34
+Transition to charge -> 32- 33
