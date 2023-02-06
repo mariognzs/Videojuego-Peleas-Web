@@ -1,2 +1,0 @@
-160 width
-141 height
